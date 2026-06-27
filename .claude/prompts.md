@@ -1,0 +1,1 @@
+In @templates/base.html, look at the footer section and add two new links: 'Privacy Policy' and 'Terms & Conditions'. Use relative paths like '/privacy-policy' and '/terms-and-conditions' for the URLs. Make sure they match the existing CSS styling and structure of the other links in the footer.
